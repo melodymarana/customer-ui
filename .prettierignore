@@ -1,7 +1,0 @@
-**/*.svg
-.editorconfig
-.gitignore
-.prettierignore
-*.lock
-build
-node_modules
