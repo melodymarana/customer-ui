@@ -2,6 +2,7 @@
   "name": "customer-frontend-ui",
   "version": "2.0.1",
   "private": true,
+  "homepage": "https://melodymarana.github.io/customer-ui/",
   "scripts": {
     "start": "react-scripts start",
     "dev:mac": "react-scripts start",
@@ -69,6 +70,7 @@
     "eslint-config-prettier": "^8.5.0",
     "eslint-plugin-prettier": "^4.2.1",
     "eslint-plugin-react": "^7.31.8",
+    "gh-pages": "^5.0.0",
     "postcss": "8.4.16",
     "postcss-cli": "10.0.0",
     "postcss-import": "^15.0.0",

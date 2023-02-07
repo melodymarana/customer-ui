@@ -22,7 +22,3 @@ $ npm run dev:win
 # production mode
 $ npm run start:prod
 ```
-
-## Support
-
-No longer support by Duckdev84 LOL....
