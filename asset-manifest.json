@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/customer-ui/static/css/main.80fe119a.css",
-    "main.js": "/customer-ui/static/js/main.24560ec4.js",
+    "main.js": "/customer-ui/static/js/main.1ee13baa.js",
     "static/js/787.461267ad.chunk.js": "/customer-ui/static/js/787.461267ad.chunk.js",
     "static/media/fa-light-300.ttf": "/customer-ui/static/media/fa-light-300.ece9186b7f2342e5d502.ttf",
     "static/media/fa-regular-400.ttf": "/customer-ui/static/media/fa-regular-400.9bcd94f7858c78e0ff9a.ttf",
@@ -36,11 +36,11 @@
     "static/media/ibm-plex-sans-thai-cyrillic-ext-600-normal.woff2": "/customer-ui/static/media/ibm-plex-sans-thai-cyrillic-ext-600-normal.2c568e10542136ef429f.woff2",
     "index.html": "/customer-ui/index.html",
     "main.80fe119a.css.map": "/customer-ui/static/css/main.80fe119a.css.map",
-    "main.24560ec4.js.map": "/customer-ui/static/js/main.24560ec4.js.map",
+    "main.1ee13baa.js.map": "/customer-ui/static/js/main.1ee13baa.js.map",
     "787.461267ad.chunk.js.map": "/customer-ui/static/js/787.461267ad.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.80fe119a.css",
-    "static/js/main.24560ec4.js"
+    "static/js/main.1ee13baa.js"
   ]
 }
